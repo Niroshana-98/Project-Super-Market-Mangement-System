@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Market Mangement System Final", "Super Market Mangement System Final\Super Market Mangement System Final.csproj", "{9FF3E8F8-BC2C-4DD4-ADE8-2CFF466EA5C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MarketNet Super Market", "MarketNet Super Market\MarketNet Super Market.vdproj", "{48927315-2C83-4F00-B63D-389E87E1ED84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF3E8F8-BC2C-4DD4-ADE8-2CFF466EA5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF3E8F8-BC2C-4DD4-ADE8-2CFF466EA5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF3E8F8-BC2C-4DD4-ADE8-2CFF466EA5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF3E8F8-BC2C-4DD4-ADE8-2CFF466EA5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48927315-2C83-4F00-B63D-389E87E1ED84}.Debug|Any CPU.ActiveCfg = Debug
+		{48927315-2C83-4F00-B63D-389E87E1ED84}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B951A3B3-926B-49EA-B8D6-327FCA59A7A1}
+	EndGlobalSection
+EndGlobal
